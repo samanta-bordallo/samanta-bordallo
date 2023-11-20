@@ -3,7 +3,7 @@
 
 
 
-<img align="right" style="margin-top:-20px" src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/samanta-bordallo/samanta-bordallo/main/SamantaImage.JPG?v=4&h=400&w=400&fit=cover&mask=circle">
+<img align="right" style="margin-top:-20px" src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/samanta-bordallo/samanta-bordallo/main/SamantaImage.JPG?v=4&h=300&w=300&fit=cover&mask=circle">
 
 
 
