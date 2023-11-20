@@ -1,22 +1,25 @@
 <h1 align="center">Hello, World 👋 <br> I'm Samanta Bordallo</h1>
-<img align="right" width="250px" style="margin-top:-20px" src="https://github.com/samanta-bordallo/samanta-bordallo/blob/main/SamantaImage.JPG">
+<!-- <img align="right" width="250px" style="margin-top:-20px" src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/samanta-bordallo/samanta-bordallo/main/SamantaImage.JPG?v=4&h=300&w=300&fit=cover&mask=circle&maxage=1d"> -->
+
+
+
+<img align="right" style="margin-top:-20px" src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/samanta-bordallo/samanta-bordallo/main/SamantaImage.JPG?v=4&h=400&w=400&fit=cover&mask=circle">
+
+
+
 
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/samanta-bordallo-86805a117/">
-    <img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
+    <img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
   &nbsp; <!-- Espaço em branco -->
   <a target="_blank" href="https://api.whatsapp.com/send?phone=913890678">
-    <img alt="WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-  </a>
+    <img alt="WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg"/></a>
   &nbsp;
   <a target="_blank" href="mailto:bordallo.samanta@gmail.com">
-    <img alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-  </a>
+    <img alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/></a>
   &nbsp;
   <a target="_blank" href="https://www.facebook.com/samanta.bordallo/">
-    <img alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-  </a>
+    <img alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/></a>
 </p>
 
 ---- 
