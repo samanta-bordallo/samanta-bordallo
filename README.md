@@ -42,6 +42,8 @@
 <img align="center" src="https://img.shields.io/badge/programming-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C badge" height="25" width="auto" hspace="10"/></a>
 <img align="center" src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white" alt=".NET badge" height="25" width="auto" hspace="10"/>
 <img align="center" src="https://img.shields.io/badge/C%23-%239100D7.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# badge" height="25" width="auto" hspace="10"/>
+<img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge" height="25" width="auto" hspace="10"/>
+
 
 </p>
 
