@@ -1,12 +1,6 @@
 <h1 align="center">Hello, World 👋 <br> I'm Samanta Bordallo</h1>
-<!-- <img align="right" width="250px" style="margin-top:-20px" src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/samanta-bordallo/samanta-bordallo/main/SamantaImage.JPG?v=4&h=300&w=300&fit=cover&mask=circle&maxage=1d"> -->
-
-
 
 <img align="right" style="margin-top:-20px" src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/samanta-bordallo/samanta-bordallo/main/SamantaImage.JPG?v=4&h=300&w=300&fit=cover&mask=circle">
-
-
-
 
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/samanta-bordallo-86805a117/">
@@ -30,11 +24,11 @@
 - 📚 I'm studying at the [Instituto do Emprego e Formação Profissional]([ipleiria.pt](https://iefponline.iefp.pt/IEFP/index2.jsp))
 - 🌱 I’m currently learning about **.NET**
 - 👯 I’m looking to collaborate on **open source projects with social impact**
-
+</p>
 <p align="center">
 
 ## Skills 🚀
-<p align="center">
+
 <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" height="25" width="auto" hspace="10"/></a>
 <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" height="25" width="auto" hspace="10"/></a>
 <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript Badge" height="25" width="auto" hspace="10"/></a>
