@@ -21,9 +21,9 @@
 <h3 align="center">A passionate developer & student</h3>
 <p align="center">
 
-- 📚 I'm studying at the [Instituto do Emprego e Formação Profissional]([ipleiria.pt](https://iefponline.iefp.pt/IEFP/index2.jsp))
-- 🌱 I’m currently learning about **.NET**
-- 👯 I’m looking to collaborate on **open source projects with social impact**
+- 📚 I'm studying at the [Instituto do Emprego e Formação Profissional](https://iefponline.iefp.pt/IEFP/index2.jsp)
+- 🌱 Intern at [Playads.io](https://playads.io/), specializing in web automation with Python
+
 </p>
 <p align="center">
 
